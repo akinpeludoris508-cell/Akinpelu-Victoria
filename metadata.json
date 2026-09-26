@@ -1,0 +1,6 @@
+{
+  "name": "KAIROS — AI Video Creator & Commercial Studio",
+  "description": "Cinematic visuals, product commercials, and impossible worlds created with artificial intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
